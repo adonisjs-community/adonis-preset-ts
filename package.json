@@ -1,0 +1,31 @@
+{
+  "name": "adonis-preset-ts",
+  "version": "1.0.0",
+  "description": "Preset files to be extended by tsconfig and tslint.json",
+  "files": [
+    "tsconfig.json",
+    "tslint.js",
+    "README.md"
+  ],
+  "scripts": {
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdonisCommunity/adonis-preset-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "tslint",
+    "adonisjs"
+  ],
+  "author": "virk,adonisjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdonisCommunity/adonis-preset-ts/issues"
+  },
+  "homepage": "https://github.com/AdonisCommunity/adonis-preset-ts#readme",
+  "devDependencies": {
+    "np": "^5.0.3"
+  }
+}
