@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/AdonisCommunity/adonis-preset-ts#readme",
   "devDependencies": {
-    "np": "^5.0.3"
+    "np": "^5.2.1"
   }
 }
