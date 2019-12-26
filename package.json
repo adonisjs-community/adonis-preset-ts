@@ -1,6 +1,6 @@
 {
   "name": "adonis-preset-ts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Preset files to be extended by tsconfig and tslint.json",
   "files": [
     "tsconfig.json",
