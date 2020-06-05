@@ -23,9 +23,7 @@
     "experimentalDecorators": true,
     "esModuleInterop": true,
     "rootDir": "../../",
-    "baseUrl": "../../",
-    "sourceMap": true,
-    "inlineSourceMap": true
+    "baseUrl": "../../"
   },
   "include": [
     "**/*"
