@@ -1,6 +1,13 @@
+<div align="center">
+  <img src="https://res.cloudinary.com/adonisjs/image/upload/q_100/v1558612869/adonis-readme_zscycu.jpg" width="600px">
+</div>
+
+<br />
+<hr>
+
 # Adonis Preset Typescript
 
-This module contains the base config files **(recommended by the core team)** for `typescript` and `tslint` to be extended by your AdonisJs typescript projects.
+This module contains the base config files **(recommended by the core team)** for `typescript` to be extended by your AdonisJS typescript projects.
 
 ## Usage
 Install the package from npm registry as follows
@@ -12,7 +19,7 @@ npm i -D adonis-preset-ts
 yarn add -D adonis-preset-ts
 ```
 
-and then setup your config files to extend the base config
+and then setup your config file to extend the base config
 
 **tsconfig.json**
 
@@ -28,16 +35,5 @@ and then setup your config files to extend the base config
       "Contracts/*": [ "./contracts/*" ]
     }
   }
-}
-```
-
-**tslint.json**
-
-```json
-{
-  "extends": [
-    "adonis-preset-ts/tslint"
-  ],
-  "rules": {}
 }
 ```
