@@ -12,14 +12,11 @@
     "removeComments": true,
     "declaration": false,
     "moduleResolution": "node",
-    "outDir": "../../build",
     "strictNullChecks": true,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "esModuleInterop": true,
-    "rootDir": "../../",
-    "baseUrl": "../../"
+    "esModuleInterop": true
   },
   "include": [
     "**/*"
